@@ -1,0 +1,4 @@
+group,n_photos,detection_rate,lo,hi
+moderate (20-99),121,0.909,0.851,0.959
+rare (<20 train photos),56,0.911,0.821,0.982
+common (100+),329,0.918,0.888,0.948
