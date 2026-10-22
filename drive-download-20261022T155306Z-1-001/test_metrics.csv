@@ -1,0 +1,2 @@
+model,auc,sensitivity,specificity,balanced_acc,f1,accuracy
+ViT-B/16,0.97,0.915,0.918,0.916,0.945,0.916
