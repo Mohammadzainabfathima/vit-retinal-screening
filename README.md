@@ -33,9 +33,6 @@ Data
 
 RFMiD: Pachade, S., et al. (2021). Retinal Fundus Multi-Disease Image Dataset (RFMiD): A dataset for multi-disease detection research. Data, 6(2), 14. Released under CC BY 4.0.
 
-Use of AI assistance
-
-Claude (Anthropic) was used as an AI assistant for code development, debugging and drafting. I ran all experiments and I take responsibility for the results and their interpretation.
 
 Disclaimer
 
